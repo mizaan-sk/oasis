@@ -5,18 +5,18 @@ import Modal from "./Modal";
 
 const configurations = [
   {
-    type: "1 Bed",
-    area: "568",
+    type: "4 Bed",
+    area: "7,254",
     image: "/assets/oasint1.webp",
   },
   {
-    type: "2 Bed",
-    area: "936",
+    type: "5 Bed",
+    area: "7,965 ",
     image: "/assets/oasint2.webp",
   },
     {
-    type: "3 Bed",
-    area: "936",
+    type: "6 Bed",
+    area: "12,779 ",
     image: "/assets/oasint3.webp",
   },
 ];
