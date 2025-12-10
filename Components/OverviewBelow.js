@@ -13,6 +13,7 @@ const OverviewBelow = () => {
           priority
           className="object-cover z-0"
         />
+        
         {/* Overlay Content */}
      <div className="absolute inset-0 bg-black/70 -mt-17 flex flex-col items-center justify-center px-4 text-center z-0">
   <Image
