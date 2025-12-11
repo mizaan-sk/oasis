@@ -11,15 +11,15 @@ import Navbar from "./Navbar";
 import { IoIosArrowForward, IoIosArrowBack } from "react-icons/io";
 
 const Desktop_Slider = [
-  { src: "/assets/oas_des_banner1.webp", alt: 'slide1' },
-  { src: "/assets/oas_des_banner2.webp", alt: 'slide2' },
-  { src: "/assets/oas_des_banner3.webp", alt: 'slide3' },
+  { src: "/assets/oas_ban_desk1.webp", alt: 'slide1' },
+  { src: "/assets/oas_ban_desk2.webp", alt: 'slide2' },
+  { src: "/assets/oas_ban_desk3.webp", alt: 'slide3' },
 ];
 
 const Mobile_Slider = [
-  { src: "/assets/oas_mob_banner1.webp", alt: 'slide5' },
-  { src: "/assets/oas_mob_banner2.webp", alt: 'slide6' },
-  { src: "/assets/oas_mob_banner3.webp", alt: 'slide7' },
+  { src: "/assets/oas_ban_mob1.webp", alt: 'slide5' },
+  { src: "/assets/oas_ban_mob2.webp", alt: 'slide6' },
+  { src: "/assets/oas_ban_mob3.webp", alt: 'slide7' },
 ];
 
 
